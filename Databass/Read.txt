@@ -1,0 +1,10 @@
+///////////////////////////////////
+ 
+* Databass name  - nature_clothing
+
+///////////////////////////////////
+
+admin page  - 
+
+* username - admin
+* password - admin
