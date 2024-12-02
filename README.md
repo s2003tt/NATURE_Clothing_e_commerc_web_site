@@ -1,3 +1,2 @@
 ## Demo video
-
-https://github.com/s2003tt/NATURE_Clothing_e_commerc_web_site/issues/1#issue-2704037206
+https://github.com/user-attachments/assets/be2c7132-bcbd-4a81-9544-63ce7e3d2896
